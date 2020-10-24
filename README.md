@@ -4,7 +4,7 @@
 
 ### Prints do template construido:
 
-Home com navbar responsivo, botões e carrousel:
+Home com navbar responsivo fixado no topo, botões e carrousel:
 
 ![Home Spotify](https://github.com/SchrodingerF7/oldspotify-clone/blob/master/prints/homespotify.png)
 
