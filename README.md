@@ -1,6 +1,6 @@
 # Clone template antigo do Spotify
 
-## Template criado com fins acadêmicos para curso de HTML e CSS.
+## Template criado com fins acadêmicos para curso de HTML e CSS Bootstrap.
 
 ### Prints do template construido:
 
